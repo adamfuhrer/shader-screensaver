@@ -4,3 +4,9 @@ https://github.com/adamfuhrer/shader-screensaver/assets/10779827/0a51d2be-7b9d-4
 GLSL Shader: https://shaders-adamfuhrer.vercel.app/iridescent-windows
 
 Screensaver: https://adamfuhrer.com/Iridescent-Tiles-Shader.zip
+
+___
+
+Website: https://adamfuhrer.com/
+
+Twitter: https://x.com/adamfuhrer
